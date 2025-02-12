@@ -24,7 +24,7 @@ This repository contains the code for a responsive landing page designed to attr
 1.  **Clone the Repository:**
 
     
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone https://github.com/PulkitSinghal2004/university-Insights.git
     
 
 2.  **Open `index.html`:** Open the `index.html` file in your web browser to view the landing page.
